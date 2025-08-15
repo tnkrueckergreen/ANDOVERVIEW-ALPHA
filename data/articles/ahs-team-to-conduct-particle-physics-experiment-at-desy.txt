@@ -1,0 +1,31 @@
+Title: AHS Team to Conduct Particle Physics Experiment at DESY
+Author: Tommy Kruecker-Green
+Position: Opinion Editor
+Category: Articles, Clubs, Community, Events
+Date: OCT 07, 2024
+Tags: ahs, andover, featured, field trip, germany, philosophy, physics, physics club, quantum-mechanics, quantum-physics, school, science, trip
+Description: It all began when senior Richard Chen discovered the competition at the end of the 2022-2023 school year.
+ImageFile 1: https://andoverview.net/wp-content/uploads/2024/10/tomas-krueckergreen-thumbnail.jpg
+ImagePlacement 1: Top Center
+ImageCaption 1: N/A
+ImageCredit 1: N/A
+ImageFile 2: https://i0.wp.com/andoverview.net/wp-content/uploads/2024/10/tomas-krueckergreen-thumbnail.jpg?resize=1920%2C1440&ssl=1
+ImagePlacement 2: Middle Center
+ImageCaption 2: Winners of “Beamline for Schools” competition, along with AHS physics teachers Mr. Donovan, Ms. Givens, and Principal D’Andrea and Superintendent Dr. Parvey
+ImageCredit 2: STAFF PHOTO / Tommy Kruecker-Green
+
+It all began when senior Richard Chen discovered the competition at the end of the 2022-2023 school year. He attempted to recruit classmates but initially found little interest. Richard then approached Daniel Donovan, a physics teacher and the Physics Club advisor, and later, the team of eight’s mentor. Donovan’s initial response was skeptical. “He was like, this is an absolutely crazy idea, and it’s never going to happen,” joked senior Jaiden Li.
+
+But the team – Theo Buckridge, Richard Chen, Samyak Jain, Jaiden Li, Daniel Lin, Zach Medjamia, Hari Palaniyappan, Robert Zhu – known as the SPEEDers (Smith-Purcell Effect Emission Determination) persevered. They began working on their proposal at the start of the following school year, brainstorming a number of ideas before settling on Smith-Purcell radiation. This lesser-known phenomenon, first discovered in the 1950s by Smith and Purcell, occurs when a beam of electrons passes over a metal grating, causing the emission of light.
+
+The team’s proposal focuses on the unique properties of Smith-Purcell radiation. “It’s a non-intrusive method of diagnosing a beamline,” explained Li. A beamline is a line in a particle accelerator along which particles travel, and “diagnosing” means measuring its properties. “Essentially, that means that it’s very safe to conduct, and there’s also potential applications in healthcare with regards to X-rays.”
+
+The non-intrusive nature of Smith-Purcell radiation in measuring an electron beam is a key advantage. “When you run the electron [beam], you don’t actually run the electrons through the grating; you run it over [the grating], and so the beam continues on,” Zhu clarified. This means scientists can measure the beam’s properties without disrupting it, keeping the beam intact for other uses like medical treatments. To develop their proposal, the team gained access to a library of physics papers through the school librarian, John Bérubé. They also used Onshape, a cloud-based CAD (computer-aided design) software, to create 3D models of their experimental setup. Li got involved just a week before the submission deadline to create this computer simulation.
+
+Remarkably, the team completed their final proposal in just one week. “It was a very last-minute thing,” admitted Zhu.
+
+At DESY, the team, accompanied by  Donovan, and physics teacher,  Cynthia Givens, had plans to run an electron beam over their designed grating and observe the resulting Smith-Purcell radiation. “We’re pretty much just gonna be running the beam and trying to observe the Smith-Purcell radiation,” said Zhu before they left for Germany. “And we’re gonna be tweaking things and trying to see if it matches our predictions for how much we’ll see, what we’ll see, what frequency, and so on.”
+
+The students have ambitious goals after observing the radiation. They hope to code a simulation for GEANT4, a toolkit used by CERN for simulating particle interactions. “The thing with the Smith-Purcell effect is that there isn’t a module for it in GEANT4,” said junior Buckridge. “So we would be the first to code that.”
+
+The team sees this once-in-a-lifetime trip as an opportunity to experience the international scientific community firsthand. “It’s just really great to have experience working with these tools that actual scientists use in the actual field,” said Zhu. “We definitely want to learn more about what the scientific community is like outside of just Andover or outside of just the U.S,” Li added.
