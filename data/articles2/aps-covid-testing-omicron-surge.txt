@@ -1,0 +1,35 @@
+Title: Looking Back: APS Lack of Testing During Omicron Surge
+Author: Sonja Kruecker-Green
+Position: Correspondent
+Category: Articles, Community
+Date: FEB 28, 2022
+Tags: at home tests, covid testing, COVID-19, featured, test to stay
+Description: At a time in which COVID cases were skyrocketing in the state and school districts, one might have assumed that all students were being tested for COVID once identified as close contacts. But you would be wrong.
+ImageFile 1: https://andoverview.net/wp-content/uploads/2022/02/covid-test-stock-photo.png
+ImagePlacement 1: Top Center
+ImageCaption 1: N/A
+ImageCredit 1: N/A
+ImageFile 2: https://i0.wp.com/andoverview.net/wp-content/uploads/2022/02/covid-test-stock-photo.jpg?resize=361%2C240&ssl=1
+ImagePlacement 2: Middle Center
+ImageCaption 2: A COVID test, which APS has only provided to students who are unvaccinated and close contacts until recently
+ImageCredit 2: Adobe Stock
+
+At a time in which COVID cases were skyrocketing in the state and school districts, one might have assumed that all students were being tested for COVID once identified as close contacts. But you would be wrong.
+
+As was made quite clear at the January 6, 2022, APS School Committee meeting, the only students eligible for the Test to Stay program —a testing strategy that allows close contacts to stay in school by testing them at school for at least five consecutive days— were students who were unvaccinated and either less than 3 feet with a mask, or less than 6 feet without a mask, to a positive case. In other words, the unvaccinated close contacts were the *only* ones being tested at school. Vaccinated close contacts were told only to watch for symptoms and they could continue with their normal school activities untested.
+
+This is surprising given that regardless of vaccination status, *all* students are at risk of being infected, especially with a more contagious variant that is capable of evading the immune defenses that vaccines have helped build. Moreover, until recently, students under 16 years of age were not eligible for a booster shot, putting them in an even more vulnerable position. Even many students who were already eligible for the booster had not yet been boosted.
+
+This was problematic because with only a small minority of students in the high school eligible for the testing programs, the number of COVID cases in the schools was likely significantly higher than was reported, and many asymptomatic or very mild COVID cases were able to go to school, unaware of being COVID positive. This, in turn, inevitably resulted in more cases in our communities at large.
+
+Why the lack of testing? The lack of testing availability in the schools likely stemmed from the supply chain issue impacting the country, general lack of preparedness with respect to producing enough test kits, but most importantly, a general lack of foresight and funding from the Massachusetts Government. An increased need for testing should have been anticipated and planned for well in advance of the spike in cases, yet the state did not manage to prepare for this.
+
+The state’s inability to respond to the COVID situation became even more apparent when tests were only made available to teachers two days before school restarted following the winter break. A clear plan was missing. Furthermore, it defied logic that these tests were ordered only for the teachers, and not for students who make up a far greater proportion of the population of the school.
+
+Recently, DESE announced its decision to provide at-home tests to all students, after omicron cases had peaked. Expanding testing to all students should have been the plan weeks ago. Additionally, contact tracing at the high school has ended— a decision that might have been logical a few weeks ago given the lack of testing available as well as the high number of cases within the school and the difficulties in tracking down all contacts. However, now, with very few cases in the school, it would seem that contact tracing should be more feasible. Furthermore, with the mask mandate set to ease soon, it would be logical to restart this contact tracing.
+
+The worst of the omicron surge is now behind us, but looking back there is a lot that could have been done to prevent many cases in the schools. If the state had been willing to fund more testing to begin with (or the town of Andover in the absence of that)  we might have mitigated, to some extent, the spread of the infection in the schools and beyond.
+
+What is important to remember is that although the vast majority of the vaccinated are well protected from severe disease, there are many that are not. When the health system is taxed to the degree that it has been, it means that elective procedures are postponed. Some may not realize that elective surgeries are not just hip replacements and knee surgery. They can include everything from surgeries to remove tumor metastases from organs to heart bypass surgery; surgeries that are vital in improving the life expectancy of very sick individuals. These surgeries can include anything that is not *immediately* life-threatening at the moment.
+
+The state would do well to remember this, should we ever have to face another COVID surge. Overburdening our health care system impacts us all, and rigorous testing can help address the problem.
