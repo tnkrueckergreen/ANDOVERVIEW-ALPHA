@@ -1,0 +1,39 @@
+Title: Travel Through Paintings
+Author: N/A
+Position: N/A
+Category: Articles, Arts
+Date: MAY 26, 2021
+Tags: art, painting, travel
+Description: The AHS National Art Honor Society created a series of beautiful posters showcasing destinations around the world through different art styles and a variety of art materials.
+ImageFile 1: https://andoverview.net/wp-content/uploads/2021/05/img_0072-1.jpg
+ImagePlacement 1: Top Center
+ImageCaption 1: N/A
+ImageCredit 1: N/A
+ImageFile 2: https://i0.wp.com/andoverview.net/wp-content/uploads/2021/05/img_0071-1.jpg?resize=2707%2C3609&ssl=1
+ImagePlacement 2: Bottom Center
+ImageCaption 2: Zermatt, Switzerland, painted by junior Aimee Lu.
+ImageCredit 2: STAFF PHOTO / Erin Li
+ImageFile 3: https://i0.wp.com/andoverview.net/wp-content/uploads/2021/05/img_0074-1.jpg?resize=2553%2C3404&ssl=1
+ImagePlacement 3: Bottom Center
+ImageCaption 3: Agra, India, painted by sophomore Dia Arora.
+ImageCredit 3: STAFF PHOTO / Erin Li
+ImageFile 4: https://i0.wp.com/andoverview.net/wp-content/uploads/2021/05/img_0076-1.jpg?resize=2575%2C3400&ssl=1
+ImagePlacement 4: Bottom Center
+ImageCaption 4: Tokyo, Japan, painted by junior Jillian Boyer.
+ImageCredit 4: STAFF PHOTO / Erin Li
+ImageFile 5: https://i0.wp.com/andoverview.net/wp-content/uploads/2021/05/img_0072-1-1.jpg?resize=3363%2C2554&ssl=1
+ImagePlacement 5: Bottom Center
+ImageCaption 5: Rome, Italy, painted by junior Grayson DiNino.
+ImageCredit 5: STAFF PHOTO / Erin Li
+ImageFile 6: https://i0.wp.com/andoverview.net/wp-content/uploads/2021/05/img_0073-1.jpg?resize=2459%2C3276&ssl=1
+ImagePlacement 6: Bottom Center
+ImageCaption 6: Tokyo, Japan, painted by junior Despina Tasiopoulos.
+ImageCredit 6: STAFF PHOTO / Erin Li
+ImageFile 7: https://i0.wp.com/andoverview.net/wp-content/uploads/2021/05/img_0075-1.jpg?resize=2576%2C3567&ssl=1
+ImagePlacement 7: Bottom Center
+ImageCaption 7: San Francisco, painted by junior Giulia Maria Panzica.
+ImageCredit 7: STAFF PHOTO / Erin Li
+
+The AHS National Art Honor Society created a series of beautiful posters showcasing destinations around the world through different art styles and a variety of art materials.
+
+“We can’t do a mural this year because of COVID so we decided to do different places around the world as posters to let people see the other places in the world without leaving Andover,” said Madison Redler, senior and vice president of NAHS.
