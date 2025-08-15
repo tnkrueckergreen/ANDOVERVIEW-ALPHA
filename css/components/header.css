@@ -1,0 +1,6 @@
+/* Header Component - Imports all header-related styles */
+@import url('./header/base.css');
+@import url('./header/navigation.css');
+@import url('./header/dropdown.css');
+@import url('./header/search.css'); 
+@import url('../utilities/buttons.css');
