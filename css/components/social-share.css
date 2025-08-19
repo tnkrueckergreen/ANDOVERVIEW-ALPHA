@@ -1,0 +1,161 @@
+/* Social sharing component styles */
+.social-share-container {
+    background-color: var(--color-light-gray);
+    border: 1px solid var(--color-border);
+    border-radius: 12px;
+    padding: 2.5rem;
+    /* THE FIX: Changed from 'margin: 0 0 4rem 0' to just 'margin: 0' */
+    margin: 0;
+    text-align: center;
+    clear: both; 
+}
+
+.social-share-title {
+    font-family: var(--font-serif);
+    font-size: 1.75rem; /* Increased size */
+    font-weight: 400; /* Softer weight */
+    margin: 0 0 2rem 0;
+    color: var(--color-dark);
+}
+
+.social-share-buttons {
+    display: grid;
+    /* Create a responsive grid that fits as many buttons as possible */
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 1rem;
+}
+
+.social-share-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem; /* Space between icon and text */
+
+    padding: 0.75rem 1rem;
+    background-color: transparent;
+    border-radius: 8px;
+    border: 1px solid var(--color-border);
+
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+.social-share-button:hover {
+    transform: translateY(-3px);
+    background-color: var(--color-brand-blue);
+    border-color: var(--color-brand-blue);
+    color: white;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    opacity: 1; /* Override default link hover */
+    /* ADDED: Change cursor to 'grab' on hover */
+    cursor: grab;
+}
+
+.social-share-icon {
+    width: 20px;
+    height: 20px;
+    transition: filter 0.2s ease-in-out;
+    will-change: filter;
+}
+
+.social-share-button:hover .social-share-icon {
+    filter: invert(1) brightness(2);
+}
+
+
+/* Mobile responsive styles */
+@media (max-width: 768px) {
+    .social-share-container {
+        padding: 1.5rem;
+        /* THE FIX: Adjusted margin to match the change above */
+        margin: 0 0 2rem 0;
+    }
+
+    .social-share-title {
+        font-size: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .social-share-buttons {
+        gap: 0.75rem;
+    }
+
+    .social-share-button {
+        padding: 0.6rem 0.75rem;
+        font-size: 0.85rem;
+    }
+}
+
+/* --- MINIMAL (TOP OF ARTICLE) SHARE STYLES --- */
+.single-article-header .social-share-minimal {
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.social-share-minimal {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.social-share-button-minimal {
+    display: block;
+    line-height: 1;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    position: relative;
+}
+
+.social-share-button-minimal:hover {
+    opacity: 0.7;
+    transform: none;
+    /* ADDED: Change cursor to 'grab' on hover */
+    cursor: grab;
+}
+
+.social-share-icon-minimal {
+    width: 22px;
+    height: 22px;
+    filter: grayscale(1) opacity(0.6);
+    transition: all 0.2s ease-in-out;
+    will-change: filter;
+}
+
+.social-share-button-minimal:hover .social-share-icon-minimal {
+    filter: grayscale(0) opacity(1);
+}
+
+/* --- NEW STYLES FOR COPY LINK BUTTON --- */
+.copy-link-btn .copy-link-icon-wrapper {
+    display: inline-block;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.copy-link-btn .copy-link-success-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--color-brand-blue);
+    font-size: 0.75rem;
+    font-weight: 600;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease-in-out;
+}
+
+/* State when the link has been successfully copied */
+.copy-link-btn.is-copied .copy-link-icon-wrapper {
+    opacity: 0; /* Hide the icon */
+}
+
+.copy-link-btn.is-copied .copy-link-success-message {
+    opacity: 1; /* Show the "Copied!" message */
+}

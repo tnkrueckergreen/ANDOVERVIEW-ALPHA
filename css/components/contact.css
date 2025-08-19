@@ -1,0 +1,5 @@
+/* Contact Component - Imports all contact-related styles */
+@import url('./contact/layout.css');
+@import url('./contact/form.css');
+@import url('./contact/success-message.css');
+@import url('./contact/details-card.css');

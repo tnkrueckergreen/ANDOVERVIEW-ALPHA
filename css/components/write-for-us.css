@@ -1,0 +1,202 @@
+
+
+/* --- WRITE FOR US PAGE STYLES --- */
+.write-for-us-page .page-header {
+    padding-bottom: 1rem;
+}
+
+.write-content-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.opportunities-section {
+    margin-bottom: 1rem;
+    position: relative;
+    min-height: 240px;
+}
+
+.opportunities-section h2 {
+    font-family: var(--font-serif);
+    font-size: 2rem;
+    text-align: center;
+    margin: 0;
+    color: var(--color-dark);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    background: var(--color-bg);
+    padding: 0 1rem;
+    border-radius: 8px;
+}
+
+.emoji-art-container {
+    position: relative;
+    width: 100%;
+    height: 240px;
+    margin: 0;
+}
+
+.emoji-decoration {
+    position: absolute;
+    font-size: 3rem;
+    transition: transform 0.3s ease;
+    animation: dance 4s ease-in-out infinite;
+    opacity: 0.8;
+    cursor: grab;
+    user-select: none;
+    z-index: 10;
+}
+
+.emoji-decoration:hover {
+    transform: scale(1.2);
+    opacity: 1;
+}
+
+.emoji-decoration.dragging {
+    cursor: grabbing;
+    z-index: 1000;
+    animation-play-state: paused;
+    transform: scale(1.1);
+}
+
+/* Mathematically distribute emojis evenly across the container */
+.emoji-1 { top: 16.67%; left: 16.67%; animation-delay: 0s; }
+.emoji-2 { top: 16.67%; right: 16.67%; animation-delay: 0.4s; }
+.emoji-3 { top: 50%; left: 8.33%; animation-delay: 0.8s; }
+.emoji-4 { top: 50%; right: 8.33%; animation-delay: 1.2s; }
+.emoji-5 { bottom: 16.67%; left: 16.67%; animation-delay: 1.6s; }
+.emoji-6 { bottom: 16.67%; right: 16.67%; animation-delay: 2s; }
+
+@keyframes dance {
+    0%, 100% {
+        transform: translateY(0px) rotate(0deg) scale(1);
+    }
+    25% {
+        transform: translateY(-10px) rotate(5deg) scale(1.1);
+    }
+    50% {
+        transform: translateY(-5px) rotate(-3deg) scale(1.05);
+    }
+    75% {
+        transform: translateY(-12px) rotate(7deg) scale(1.15);
+    }
+}
+
+.about-description h2 {
+    font-family: var(--font-serif);
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: var(--color-brand-blue);
+    border-bottom: 2px solid var(--color-border);
+    padding-bottom: 0.5rem;
+}
+
+.about-description h2:first-child {
+    margin-top: 1rem;
+}
+
+.write-contact-callout {
+    background: linear-gradient(135deg, var(--color-brand-blue) 0%, #003d82 100%);
+    border-radius: 16px;
+    padding: 3rem;
+    margin-top: 2rem;
+    text-align: center;
+    color: white;
+}
+
+.callout-content h3 {
+    font-family: var(--font-serif);
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.callout-content p {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.callout-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.contact-btn {
+    padding: 0.75rem 2rem;
+    border-radius: 50px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: var(--transition-smooth);
+    display: inline-block;
+}
+
+.contact-btn.primary {
+    background-color: white;
+    color: var(--color-brand-blue);
+}
+
+.contact-btn.primary:hover {
+    background-color: var(--color-light-gray);
+    transform: translateY(-2px);
+    opacity: 1;
+}
+
+.contact-btn.secondary {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+}
+
+.contact-btn.secondary:hover {
+    background-color: white;
+    color: var(--color-brand-blue);
+    transform: translateY(-2px);
+    opacity: 1;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .emoji-art-container {
+        height: 180px;
+    }
+    
+    .emoji-decoration {
+        font-size: 2rem;
+    }
+    
+    .emoji-1 { top: 12.5%; left: 12.5%; }
+    .emoji-2 { top: 12.5%; right: 12.5%; }
+    .emoji-3 { top: 50%; left: 6.25%; }
+    .emoji-4 { top: 50%; right: 6.25%; }
+    .emoji-5 { bottom: 12.5%; left: 12.5%; }
+    .emoji-6 { bottom: 12.5%; right: 12.5%; }
+    
+    .write-contact-callout {
+        padding: 2rem;
+        margin-top: 1.5rem;
+    }
+    
+    .callout-actions {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .contact-btn {
+        width: 100%;
+        max-width: 250px;
+    }
+}
+
+@media (max-width: 480px) {
+    .emoji-decoration { font-size: 1.8rem; }
+    .emoji-art-container { height: 160px; }
+}
+
